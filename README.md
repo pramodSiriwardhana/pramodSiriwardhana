@@ -1,4 +1,4 @@
-<h1 align="center" style="margin: 0; padding: 0;">Hi, I'm Pramod Siriwardhana</h1>
+<h1 align="center">Hi, I'm Pramod Siriwardhana</h1>
 
 <h3 align="center">SOFTWARE ENGINEERING UNDERGRADUATE · FULL-STACK & MOBILE APP DEVELOPER</h3>
 
