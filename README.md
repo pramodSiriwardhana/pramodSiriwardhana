@@ -46,7 +46,7 @@ My experience spans **web development, mobile applications, backend systems, dat
 </p>
 
 <p align="center">
-  Building scalable web applications, backend systems, and practical AI-powered solutions.
+ Building scalable web applications, backend systems, and practical AI/ML solutions with model training and data-driven development.
 </p>
 
 ---
