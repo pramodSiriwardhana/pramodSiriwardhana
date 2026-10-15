@@ -92,8 +92,6 @@ My experience spans **web development, mobile applications, backend systems, dat
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
 </p>
 
 ### DevOps & Tools
@@ -106,6 +104,8 @@ My experience spans **web development, mobile applications, backend systems, dat
   <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" alt="ngrok">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Terminal">
+   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
 </p>
 
 ---
@@ -195,7 +195,7 @@ A full-featured web and mobile platform for hosting and managing **online art au
 </p>
 
 <p align="center">
-  <strong>pramodsiriwardhwana@outlook.com</strong>
+  <strong>pramodsiriwardhana@outlook.com</strong>
 </p>
 
 <p align="center">
