@@ -173,7 +173,7 @@ A full-featured web and mobile platform for hosting and managing **online art au
     alt="Pramod Siriwardhana GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats-pramod.vercel.app/api/top-langs/?username=pramodSiriwardhana&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    src="https://github-readme-stats-pramod.vercel.app/api/top-langs/?username=pramodSiriwardhana&layout=compact&langs_count=11&hide_border=true&theme=transparent"
     height="180"
     alt="Pramod Siriwardhana Top Languages"
   />
