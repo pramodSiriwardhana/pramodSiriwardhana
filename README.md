@@ -18,7 +18,7 @@
 <img src="./assets/t-about.svg" alt="About" width="100%" />
 <img src="./assets/about.svg" alt="About me terminal" width="100%" />
 
-<br/><br/>
+<div style="height: 12px;"></div>
 
 <img src="./assets/t-stack.svg" alt="Tech stack" width="100%" />
 <img src="./assets/stack.svg" alt="Tech stack" width="100%" />
