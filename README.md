@@ -1,4 +1,3 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
 <img src="assets/hero.svg" width="100%" alt="Pramod Siriwardhana - Full-Stack, Mobile and AI/ML Engineer" />
@@ -19,187 +18,62 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=pramodSiriwardhana&style=flat-square&color=6366F1&label=PROFILE+VIEWS" alt="views" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
-<div align="center">
-
 > ### *"I believe in building attractive, meaningful, and user-focused solutions that solve real-world problems."*
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-## 👨‍💻 &nbsp;About Me
+<img src="assets/h-about.svg" width="100%" alt="About Me" />
 
 I'm a **Software Engineering Undergraduate** and **Full-Stack & Mobile App Developer**, shaped by continuous learning, hands-on projects and my studies at **NIBM**. My work spans **web apps · mobile apps · backend systems · databases · APIs · AI/ML model training**, and freelance and personal projects have taught me how to turn raw requirements into **practical, working products**.
 
 <div align="center">
-
-<img src="assets/terminal.svg" width="88%" alt="terminal: whoami, about, domains" />
-
+<img src="assets/terminal.svg" width="88%" alt="terminal" />
 <br/><br/>
-
-<img src="https://img.shields.io/badge/03+-Years_of_Development-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/04-Domains-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/15+-Technologies-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/A+-Quality_Focus-F59E0B?style=for-the-badge" />
-
+<img src="assets/counters.svg" width="100%" alt="stats" />
 </div>
-
-<!-- ═══════════════════════════ FOCUS ═══════════════════════════ -->
-## 🎯 &nbsp;Current Focus — 2026
-
-```mermaid
-mindmap
-  root((Pramod))
-    Web
-      Next.js
-      React
-      NestJS
-    Mobile
-      Kotlin
-      Jetpack Compose
-      Flutter
-    AI / ML
-      Model Training
-      Data-Driven Apps
-      Scikit-Learn
-    Backend
-      REST APIs
-      PostgreSQL
-      MongoDB
-```
-
-> 🔭 Building **scalable web applications**, **robust backend systems** and **practical AI/ML solutions** with model training and data-driven development.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-## ⚡ &nbsp;Tech Arsenal
+<img src="assets/h-focus.svg" width="100%" alt="Current Focus" />
 
-<div align="center">
-
-| Layer | Technologies |
-| :---: | :--- |
-| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" /> |
-| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,java,php" /> |
-| 📱 **Mobile** | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart" /> |
-| 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" /> |
-| 🛠️ **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel,netlify" /> |
-| 🤖 **AI / ML** | <img src="https://skillicons.dev/icons?i=python,flask" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="48" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" /> |
-
-</div>
-
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-## 🚀 &nbsp;Featured Projects
-
-<table>
-<tr>
-
-<td width="33%" valign="top" align="center">
-
-### 🌴 Iki Saki Travel
-<sub>**Travel Tech · Full-Stack Web**</sub>
-
-<br/>
-
-Responsive travel & tourism platform for exploring **Sri Lankan destinations, tour packages and travel services**.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://www.ikisakitours.com"><img src="https://img.shields.io/badge/🔗_Live_Project-6366F1?style=for-the-badge" /></a>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### 🥭 ML Price Prediction
-<sub>**Machine Learning · Web App**</sub>
-
-<br/>
-
-ML web app that predicts **fruit & vegetable prices** using environmental and historical data.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/pramodSiriwardhana/Fruits-Vegetables-Ml-Price-Prediction.git"><img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github" /></a>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### 🎨 Artévo
-<sub>**E-Auction · Web & Mobile**</sub>
-
-<br/>
-
-Full-featured platform for hosting **online art auctions with real-time bidding**, on web and mobile.
-
-<br/>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/pramodSiriwardhana/HND_FINAL_Artevo_web.git"><img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github" /></a>
-
-</td>
-
-</tr>
-</table>
+<img src="assets/focus.svg" width="100%" alt="Web, Mobile, AI/ML, Backend" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-## 📊 &nbsp;GitHub Analytics
+<img src="assets/h-stack.svg" width="100%" alt="Tech Arsenal" />
+
+<img src="assets/stack.svg" width="100%" alt="Tech stack" />
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<img src="assets/h-projects.svg" width="100%" alt="Featured Projects" />
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats-pramod.vercel.app/api?username=pramodSiriwardhana&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=6366F1&icon_color=0EA5E9" alt="stats" />
-<img height="180" src="https://github-readme-stats-pramod.vercel.app/api/top-langs/?username=pramodSiriwardhana&layout=compact&langs_count=11&hide_border=true&theme=transparent&title_color=6366F1" alt="languages" />
-
-<img src="https://streak-stats.demolab.com?user=pramodSiriwardhana&hide_border=true&theme=transparent&ring=6366F1&fire=F59E0B&currStreakLabel=0EA5E9" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pramodSiriwardhana&bg_color=0d1117&color=38bdf8&line=6366f1&point=ffffff&area=true&hide_border=true" width="95%" alt="activity graph" />
-
+<a href="https://www.ikisakitours.com"><img src="assets/p-iki.svg" width="32%" alt="Iki Saki Travel" /></a>
+<a href="https://github.com/pramodSiriwardhana/Fruits-Vegetables-Ml-Price-Prediction"><img src="assets/p-ml.svg" width="32%" alt="ML Price Prediction" /></a>
+<a href="https://github.com/pramodSiriwardhana/HND_FINAL_Artevo_web"><img src="assets/p-artevo.svg" width="32%" alt="Artévo" /></a>
 </div>
 
-<!-- ═══════════════════════════ PRINCIPLES ═══════════════════════════ -->
-## 🧭 &nbsp;How I Build
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<table>
-<tr>
-<td align="center" width="25%">🎯<br/><b>Purpose-Driven</b><br/><sub>Every feature solves a real problem</sub></td>
-<td align="center" width="25%">🧩<br/><b>Clean & Scalable</b><br/><sub>Maintainable architecture from day one</sub></td>
-<td align="center" width="25%">✨<br/><b>User-Focused</b><br/><sub>Attractive, intuitive experiences</sub></td>
-<td align="center" width="25%">🔁<br/><b>Always Learning</b><br/><sub>Consistency over intensity</sub></td>
-</tr>
-</table>
+<img src="assets/h-stats.svg" width="100%" alt="GitHub Pulse" />
 
-<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
-## 🤝 &nbsp;Let's Connect
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodSiriwardhana&layout=compact&langs_count=8&hide_border=true&bg_color=0b1220&title_color=22d3ee&text_color=cbd5e1" alt="languages" />
+<img height="170" src="https://streak-stats.demolab.com?user=pramodSiriwardhana&hide_border=true&background=0B1220&ring=6366F1&fire=F59E0B&currStreakLabel=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=94A3B8&dates=64748B" alt="streak" />
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<img src="assets/h-build.svg" width="100%" alt="How I Build" />
+
+<img src="assets/principles.svg" width="100%" alt="Principles" />
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<img src="assets/h-connect.svg" width="100%" alt="Let's Connect" />
 
 <div align="center">
 
@@ -212,10 +86,6 @@ Full-featured platform for hosting **online art auctions with real-time bidding*
 
 **📧 pramodsiriwardhana@outlook.com**
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=94A3B8&center=true&vCenter=true&width=520&lines=Build+with+purpose.;Develop+with+consistency.;Keep+learning." alt="footer typing" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,14,18,24&section=footer" alt="footer" />
-
 </div>
+
+<img src="assets/footer.svg" width="100%" alt="Build with purpose. Develop with consistency. Keep learning." />
