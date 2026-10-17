@@ -98,12 +98,14 @@
   <img height="175" src="https://github-readme-stats-pramod.vercel.app/api/top-langs/?username=pramodSiriwardhana&hide_border=false&border_radius=16&border_color=1e2a44&bg_color=0d1424&title_color=22d3ee&text_color=cbd5e1&layout=compact&langs_count=8" alt="Top languages" />
 </picture>
 
-<a href="mailto:pramodsiriwardhana@outlook.com"><picture>
+<picture>
   <source media="(max-width: 767px) and (prefers-color-scheme: light)" srcset="assets/light/contact-card.mobile.svg">
   <source media="(max-width: 767px)" srcset="assets/dark/contact-card.mobile.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/light/contact-card.svg">
   <img src="assets/dark/contact-card.svg" alt="Let's build something worth shipping" width="100%" />
-</picture></a>
+</picture>
+
+[✉ Send me an email](mailto:pramodsiriwardhana@outlook.com)
 
 <picture>
   <source media="(max-width: 767px) and (prefers-color-scheme: light)" srcset="assets/light/footer.mobile.svg">
