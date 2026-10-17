@@ -99,10 +99,10 @@
 </picture>
 
 <a href="mailto:pramodsiriwardhana@outlook.com"><picture>
-  <source media="(max-width: 767px) and (prefers-color-scheme: light)" srcset="assets/light/contact.mobile.svg">
-  <source media="(max-width: 767px)" srcset="assets/dark/contact.mobile.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light/contact.svg">
-  <img src="assets/dark/contact.svg" alt="Let's build something worth shipping" width="100%" />
+  <source media="(max-width: 767px) and (prefers-color-scheme: light)" srcset="assets/light/contact-card.mobile.svg">
+  <source media="(max-width: 767px)" srcset="assets/dark/contact-card.mobile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/contact-card.svg">
+  <img src="assets/dark/contact-card.svg" alt="Let's build something worth shipping" width="100%" />
 </picture></a>
 
 <picture>
