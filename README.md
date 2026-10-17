@@ -106,11 +106,10 @@
   <img src="assets/dark/contact-card.svg" alt="Let's build something worth shipping" width="100%" />
 </picture>
 
-<a href="mailto:pramodsiriwardhana@outlook.com"><picture>
-
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/light/email-btn.svg">
   <img src="assets/dark/email-btn.svg" alt="Send me an email" width="480" />
-</picture></a>
+</picture>
 
 <picture>
   <source media="(max-width: 767px) and (prefers-color-scheme: light)" srcset="assets/light/footer.mobile.svg">
