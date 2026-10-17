@@ -8,6 +8,7 @@
 </picture>
 
 <a href="https://pramod-siriwardhana.vercel.app/"><picture>
+
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PORTFOLIO-f6f8fa?style=for-the-badge&logo=vercel&logoColor=0891b2&labelColor=f6f8fa&color=e2e8f0">
   <img src="https://img.shields.io/badge/PORTFOLIO-0a0e1a?style=for-the-badge&logo=vercel&logoColor=22d3ee&labelColor=0a0e1a&color=1e2a44" alt="Portfolio"/>
 </picture></a>
@@ -105,7 +106,11 @@
   <img src="assets/dark/contact-card.svg" alt="Let's build something worth shipping" width="100%" />
 </picture>
 
-[✉ Send me an email](mailto:pramodsiriwardhana@outlook.com)
+<a href="mailto:pramodsiriwardhana@outlook.com"><picture>
+
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/email-btn.svg">
+  <img src="assets/dark/email-btn.svg" alt="Send me an email" width="480" />
+</picture></a>
 
 <picture>
   <source media="(max-width: 767px) and (prefers-color-scheme: light)" srcset="assets/light/footer.mobile.svg">
