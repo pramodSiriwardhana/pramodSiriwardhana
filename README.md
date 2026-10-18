@@ -95,11 +95,6 @@
   <img src="assets/dark/email-btn.svg" alt="Send me an email" width="480" />
 </picture>
 
-<picture>
-  <source media="(max-width: 767px) and (prefers-color-scheme: light)" srcset="assets/light/footer.mobile.svg">
-  <source media="(max-width: 767px)" srcset="assets/dark/footer.mobile.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light/footer.svg">
-  <img src="assets/dark/footer.svg" alt="Footer" width="100%" />
-</picture>
+[![Send me an email](assets/btn-email.svg)](mailto:pramodsiriwardhana@outlook.com)
 
 </div>
