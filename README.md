@@ -7,22 +7,7 @@
   <img src="assets/dark/header.svg" alt="Pramod Siriwardhana — Full-Stack · Mobile · AI/ML Engineer" width="100%" />
 </picture>
 
-<a href="https://pramod-siriwardhana.vercel.app/"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/light/btn-portfolio.svg">
-  <img src="assets/dark/btn-portfolio.svg" alt="Portfolio" width="84" />
-</picture></a>
-<a href="https://www.linkedin.com/in/pramod-siriwardhana"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/light/btn-linkedin.svg">
-  <img src="assets/dark/btn-linkedin.svg" alt="LinkedIn" width="84" />
-</picture></a>
-<a href="https://github.com/pramodSiriwardhana"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/light/btn-github.svg">
-  <img src="assets/dark/btn-github.svg" alt="GitHub" width="84" />
-</picture></a>
-<a href="https://wa.me/94702705781"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/light/btn-whatsapp.svg">
-  <img src="assets/dark/btn-whatsapp.svg" alt="WhatsApp" width="84" />
-</picture></a>
+[![Portfolio](assets/btn-portfolio.svg)](https://pramod-siriwardhana.vercel.app/) [![LinkedIn](assets/btn-linkedin.svg)](https://www.linkedin.com/in/pramod-siriwardhana) [![GitHub](assets/btn-github.svg)](https://github.com/pramodSiriwardhana) [![WhatsApp](assets/btn-whatsapp.svg)](https://wa.me/94702705781)
 
 <picture>
   <source media="(max-width: 767px) and (prefers-color-scheme: light)" srcset="assets/light/metrics.mobile.svg">
