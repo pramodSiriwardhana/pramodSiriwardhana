@@ -9,19 +9,19 @@
 
 <a href="https://pramod-siriwardhana.vercel.app/"><picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/light/btn-portfolio.svg">
-  <img src="assets/dark/btn-portfolio.svg" alt="Portfolio" width="230" />
+  <img src="assets/dark/btn-portfolio.svg" alt="Portfolio" width="84" />
 </picture></a>
 <a href="https://www.linkedin.com/in/pramod-siriwardhana"><picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/light/btn-linkedin.svg">
-  <img src="assets/dark/btn-linkedin.svg" alt="LinkedIn" width="230" />
+  <img src="assets/dark/btn-linkedin.svg" alt="LinkedIn" width="84" />
 </picture></a>
 <a href="https://github.com/pramodSiriwardhana"><picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/light/btn-github.svg">
-  <img src="assets/dark/btn-github.svg" alt="GitHub" width="230" />
+  <img src="assets/dark/btn-github.svg" alt="GitHub" width="84" />
 </picture></a>
 <a href="https://wa.me/94702705781"><picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/light/btn-whatsapp.svg">
-  <img src="assets/dark/btn-whatsapp.svg" alt="WhatsApp" width="230" />
+  <img src="assets/dark/btn-whatsapp.svg" alt="WhatsApp" width="84" />
 </picture></a>
 
 <picture>
