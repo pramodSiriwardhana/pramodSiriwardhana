@@ -90,11 +90,13 @@
   <img src="assets/dark/contact-card.svg" alt="Let's build something worth shipping" width="100%" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/light/email-btn.svg">
-  <img src="assets/dark/email-btn.svg" alt="Send me an email" width="480" />
-</picture>
-
 [![Send me an email](assets/btn-email.svg)](mailto:pramodsiriwardhana@outlook.com)
+
+<picture>
+  <source media="(max-width: 767px) and (prefers-color-scheme: light)" srcset="assets/light/footer.mobile.svg">
+  <source media="(max-width: 767px)" srcset="assets/dark/footer.mobile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/footer.svg">
+  <img src="assets/dark/footer.svg" alt="Footer" width="100%" />
+</picture>
 
 </div>
