@@ -8,21 +8,20 @@
 </picture>
 
 <a href="https://pramod-siriwardhana.vercel.app/"><picture>
-
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PORTFOLIO-f6f8fa?style=for-the-badge&logo=vercel&logoColor=0891b2&labelColor=f6f8fa&color=e2e8f0">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0a0e1a?style=for-the-badge&logo=vercel&logoColor=22d3ee&labelColor=0a0e1a&color=1e2a44" alt="Portfolio"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/btn-portfolio.svg">
+  <img src="assets/dark/btn-portfolio.svg" alt="Portfolio" width="230" />
 </picture></a>
 <a href="https://www.linkedin.com/in/pramod-siriwardhana"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LINKEDIN-f6f8fa?style=for-the-badge&logo=linkedin&logoColor=2563eb&labelColor=f6f8fa&color=e2e8f0">
-  <img src="https://img.shields.io/badge/LINKEDIN-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=60a5fa&labelColor=0a0e1a&color=1e2a44" alt="LinkedIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/btn-linkedin.svg">
+  <img src="assets/dark/btn-linkedin.svg" alt="LinkedIn" width="230" />
 </picture></a>
 <a href="https://github.com/pramodSiriwardhana"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GITHUB-f6f8fa?style=for-the-badge&logo=github&logoColor=24292f&labelColor=f6f8fa&color=e2e8f0">
-  <img src="https://img.shields.io/badge/GITHUB-0a0e1a?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=0a0e1a&color=1e2a44" alt="GitHub"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/btn-github.svg">
+  <img src="assets/dark/btn-github.svg" alt="GitHub" width="230" />
 </picture></a>
 <a href="https://wa.me/94702705781"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/WHATSAPP-f6f8fa?style=for-the-badge&logo=whatsapp&logoColor=16a34a&labelColor=f6f8fa&color=e2e8f0">
-  <img src="https://img.shields.io/badge/WHATSAPP-0a0e1a?style=for-the-badge&logo=whatsapp&logoColor=4ade80&labelColor=0a0e1a&color=1e2a44" alt="WhatsApp"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/btn-whatsapp.svg">
+  <img src="assets/dark/btn-whatsapp.svg" alt="WhatsApp" width="230" />
 </picture></a>
 
 <picture>
